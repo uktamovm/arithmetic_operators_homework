@@ -5,3 +5,8 @@
 #Create a variable 'result' and assign it the value of x + y.
 
 #Print the value of the 'result'.
+
+x=10
+y=5
+a=x+y
+print(a)

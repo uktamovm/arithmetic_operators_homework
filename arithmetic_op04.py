@@ -9,3 +9,8 @@
 #Create a variable called 'answer' and assign it the sum of the three digits x1, x2, x3.
 
 #Print the value of the 'answer.
+a=789
+x1=a%10
+x2=a//10%10
+x3=a//10**2
+print(x1+x2+x3)
